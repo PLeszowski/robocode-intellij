@@ -1,9 +1,14 @@
 <component name="libraryTable">
   <library name="robocode">
     <CLASSES>
-      <root url="jar://$USER_HOME$/robocode/libs/robocode.jar!/" />
+      <root url="jar://C:/robocode/libs/robocode.jar!/" />
+      <root url="file://C:/robocode/robots" />
     </CLASSES>
-    <JAVADOC />
-    <SOURCES />
+    <JAVADOC>
+      <root url="file://C:/robocode/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://C:/robocode/robots" />
+    </SOURCES>
   </library>
 </component>
